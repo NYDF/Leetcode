@@ -11,6 +11,7 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        
+
 # @lc code=end
 
+11
